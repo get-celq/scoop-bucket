@@ -1,12 +1,12 @@
 {
   "architecture": {
     "64bit": {
-      "hash": "20544cee4fb8ef83887499616d738ddb09e58b1bca17fb53e0a21f0500e08772",
-      "url": "https://github.com/IvanIsCoding/celq/releases/download/v0.7.0/celq-windows-x86_64.zip"
+      "hash": "506ce1b22d48ea6af2bd421e18dc96285a664deb7877f39abc2ef91e7d84c9c9",
+      "url": "https://github.com/IvanIsCoding/celq/releases/download/v0.7.1/celq-windows-x86_64.zip"
     },
     "arm64": {
-      "hash": "b50ee4f774881775e472b934b6fb535c4977aaf9b3ee5823ba3dcde295109d93",
-      "url": "https://github.com/IvanIsCoding/celq/releases/download/v0.7.0/celq-windows-arm64.zip"
+      "hash": "4230b822bee867185e677ab8dad57e277aeb7e4c3aa15ac297784fe4b2b98e2a",
+      "url": "https://github.com/IvanIsCoding/celq/releases/download/v0.7.1/celq-windows-arm64.zip"
     }
   },
   "autoupdate": {
@@ -26,5 +26,5 @@
   "description": "Common Expression Language query tool",
   "homepage": "https://github.com/IvanIsCoding/celq",
   "license": "MIT",
-  "version": "0.7.0"
+  "version": "0.7.1"
 }
